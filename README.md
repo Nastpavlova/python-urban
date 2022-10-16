@@ -1,8 +1,9 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Павлова Анастасия Алексеевна
+- https://colab.research.google.com/drive/1g_ybVY4ANBzIPjLDbx_kDGG-SeGfNmL0?usp=sharing
+
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
